@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**armando-genis/armando-genis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Genis 👋
 
-Here are some ideas to get you started:
+### 🚀 Check Out My Work:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://youtube.com/@armandogenis-r4x?si=vB2iiSnxj_OL4t_z">
+    <img height="20" src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=flat" />
+  </a>
+  <a href="https://armando-genis.vercel.app/">
+    <img height="20" src="https://img.shields.io/badge/Portfolio-View-green?logo=vercel&style=flat" />
+  </a>
+  <a href="https://www.linkedin.com/in/armando-genis-alvarez/">
+    <img height="20" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" />
+  </a>
+
+</p>
+
+
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,rust,git,docker,linux,md,py,ros,ubuntu,cmake,nextjs)](https://skillicons.dev)
+
+
+
+
+
+
