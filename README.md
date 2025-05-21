@@ -13,9 +13,14 @@
   <a href="https://www.linkedin.com/in/armando-genis-alvarez/">
     <img height="20" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" />
   </a>
-
 </p>
 
+<div align="left">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=armando-genis&color=brightgreen)
+  ![GitHub Stars](https://img.shields.io/github/stars/armando-genis?style=social)
+  
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,rust,git,docker,linux,md,py,ros,ubuntu,cmake,nextjs)](https://skillicons.dev)
 
